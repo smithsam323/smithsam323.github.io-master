@@ -1,0 +1,63 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+.color-1{
+    background: red;
+}
+
+.color-2{
+    background: blue;
+}
+.color-3{
+    background: white
+}
+.color-4{
+    background: grey;
+}
+.color-5{
+    background: black;
+}
+/* Textures or Patterns*/
+.pattern-1 {
+    background: url(../img/sayagata-400px.png);
+}
+.pattern-2 {
+    background: url(../img/asanoha-400px.png);
+}
+.pattern-3 {
+    background: url(../img/new_year_background.png);
+}
+.pattern-4{
+    background: url(../img/seigaiha.png);
+}
+.pattern-5{
+    background: url(../img/wov.png);
+}
+/* Imagery */
+
+
+/* Icons */
+
+
+/* Navigation */
+
+
+/* Typography */
+body {
+    font-size: 2em;
+    padding: 1em; 
+    width: 100%;
+    
+}
+
+h1 {
+    font-family: 'Maven Pro', cursive;
+    color: red;
+}
+p {
+    font-family: 'Roboto Condensed', cursive;
+    color: blue;
+}
+
